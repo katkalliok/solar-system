@@ -1,3 +1,2 @@
 # solar-system
-A simplistic Solar System simulator
-2020
+A simplistic Solar System simulator. (2020)
